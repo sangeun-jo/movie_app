@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sangeun-jo/movie_app/static/css/main.e85cb2f7.chunk.css",
+    "main.js": "/sangeun-jo/movie_app/static/js/main.457f814b.chunk.js",
+    "main.js.map": "/sangeun-jo/movie_app/static/js/main.457f814b.chunk.js.map",
+    "runtime-main.js": "/sangeun-jo/movie_app/static/js/runtime-main.b23c8c5c.js",
+    "runtime-main.js.map": "/sangeun-jo/movie_app/static/js/runtime-main.b23c8c5c.js.map",
+    "static/js/2.b12bd23d.chunk.js": "/sangeun-jo/movie_app/static/js/2.b12bd23d.chunk.js",
+    "static/js/2.b12bd23d.chunk.js.map": "/sangeun-jo/movie_app/static/js/2.b12bd23d.chunk.js.map",
+    "index.html": "/sangeun-jo/movie_app/index.html",
+    "static/css/main.e85cb2f7.chunk.css.map": "/sangeun-jo/movie_app/static/css/main.e85cb2f7.chunk.css.map",
+    "static/js/2.b12bd23d.chunk.js.LICENSE.txt": "/sangeun-jo/movie_app/static/js/2.b12bd23d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b23c8c5c.js",
+    "static/js/2.b12bd23d.chunk.js",
+    "static/css/main.e85cb2f7.chunk.css",
+    "static/js/main.457f814b.chunk.js"
+  ]
+}
